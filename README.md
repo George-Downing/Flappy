@@ -5,7 +5,7 @@ with physical dynamic laws refined, (gravity mechanism was WRONG in Tim's toturi
 
 reward function is redesigned, primarily as the distance (in meters) that flappy bird has traveled
 
-passing a pipe is rewarded as traveling 2 meters
+passing a pipe is rewarded as same as traveling 2 meters
 
 Or, see Tim's tutorial:
 
